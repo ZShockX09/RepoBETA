@@ -1,2 +1,2 @@
 # RepoBETA
- first repo. A test.
+ First repo ever made and just a test
